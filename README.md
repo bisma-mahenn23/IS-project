@@ -26,12 +26,3 @@ How It Works
 1. Users land on the 8 Ball Pool login page.  
 2. Depending on their actions, they are redirected to either the Instagram or Facebook phishing login pages.  
 3. Submitted data is sent to Firebase for demonstration purposes.
-
---- 
-
-## **Acknowledgments**  
-We would like to thank our **Information Security professor** for guidance throughout this project. Special thanks to the open-source community for tools and resources.
-
----
-
-Would you like to adjust any specific section?
